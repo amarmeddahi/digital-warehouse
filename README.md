@@ -17,3 +17,9 @@ You can use our software for free. The steps to follow are as follows:
 2. Extract source.jar
 3. Follow the instructions in source/readme.txt
 4. Enjoy the digital warehouse software !
+
+# Docs
+You can find usefull documents about the project that can help you to use the software or better understand the context:
+- res/user-manual.pdf: A step-by-step guide you to use the software (EN)
+- res/manual-utilisateur.pdf: step-by-step guide you to use the software (FR)
+- res/project-presentation.pdf: A general presentation of the project
