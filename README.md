@@ -2,7 +2,7 @@
 Java software for automatic warehouse and supply chain management.
 
 <p align="center">
-  <img src="logo.png" />
+  <img src="src/images/warehouse-logo.png" />
 </p>
 
 Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
