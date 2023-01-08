@@ -5,8 +5,6 @@ Java software for automatic warehouse and supply chain management.
   <img src="src/images/warehouse-logo.png" />
 </p>
 
-Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
-
 ## Context
 
 This software has been developed as part of a project for the "Object Oriented Programming" course. The objective of the software is to help in the management of warehouses and also of the whole logistic chain (from supply to delivery).
